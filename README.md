@@ -7,3 +7,5 @@ Window Manager - i3wm
 Bar - i3blocks and polybar
 
 Font - Hack font
+
+Colors in terminal - Material UI colors
